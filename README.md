@@ -1,13 +1,5 @@
 # chatgpt
 
-
-# UsedPackages
-
-	"github.com/PullRequestInc/go-gpt3"
-  	"github.com/joho/godotenv"
-    
-
-
 # how to run
 
 open .env
@@ -18,3 +10,11 @@ then use go run .
 
 # RESPONSE 
 "first gpt is working"
+
+
+
+# UsedPackages
+
+	"github.com/PullRequestInc/go-gpt3"
+  	"github.com/joho/godotenv"
+    
